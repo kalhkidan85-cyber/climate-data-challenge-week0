@@ -1,1 +1,6 @@
-notepad notebooks/task2.py
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+print("Task 2 started successfully")
